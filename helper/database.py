@@ -6,7 +6,7 @@ class Database:
 
     def __init__(self, uri, database_name):
         self._client = motor.motor_asyncio.AsyncIOMotorClient(uri)
-        self.roheshbots = self._client[database_name]
+        self.sexibot = self._client[database_name]
         self.col = self.sexibot.user
 
     def new_user(self, id):
@@ -69,7 +69,7 @@ class Database:
         return user.get('suffix', None)              
 
 
-roheshbots = Database(Config.DB_URL, Config.DB_NAME)
+sexibot = Database(Config.DB_URL, Config.DB_NAME)
 
 
 
