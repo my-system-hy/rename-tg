@@ -1,14 +1,10 @@
-<img src="https://graph.org/file/8e1af2ccc0364ad6788a6.mp4" alt="logo" target="/blank">
+<img src="https://graph.org/file/f1432be00ae25cbbd5254.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/Rohesh_bots" target="/blank"> Rename Bot 2GB </a></>
+ <b><a href="https://t.me/sexi_mod" target="/blank"> SEXI MOD RENAME </a></>
 </h1>
 
 <p align="center">🩵 Thanks for Being Here 🩵</p>
-
-Here is our **Demo** b
-
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Renamer_Fast_Bot)](https://t.me/Renamer_Fast_Bot)
 
 
 ### CONFIGS VARIABLES
@@ -87,14 +83,22 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 
 ### ❤️ Rᴇᴘᴏ ❤️
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![RohesH_GaviT-Mᴇ](https://img.shields.io/static/v1?label=RohesH_GaviT&message=devs&color=critical)](https://t.me/Rohesh_Gavit)
+Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![SEXI MOD](https://img.shields.io/static/v1?label=RohesH_GaviT&message=devs&color=critical)](https://t.me/sexi_mod)
 
 
 
 ### ⭕️ BOTS CHANNEL ⭕️
-- [RohesH Bots](https://t.me/Rohesh_Bots)
+- [SEXI MOD](https://t.me/sexi_mod)
 
 
 
 ### 🧑‍💻 CONTACT DEVELOPER 👨‍💻
-- [Rohesh Developer](https://t.me/Rohesh_Gavit)
+- [SEXI MOD](https://t.me/sexi_mod)
+<img src="https://graph.org/file/336f04f444ed50c6f26fa.jpg" alt="logo" target="/blank">
+
+
+<h1 align="center">
+ <b><a href="https://t.me/sexi_mod" target="/blank"> SEXI MOD RENAME </a></>
+</h1>
+
+<img src="https://graph.org/file/816dd813611b7adfb3e6b.jpg" alt="logo" target="/blank">
