@@ -1,7 +1,7 @@
 {
-    "name": "renamer bot",
-    "description": "Telegram File Renamer Bot ",
-    "logo": "https://graph.org/file/39cc55f5ffee2c7cc27a7.jpg",
+    "name": "Renamer Bot 2GB",
+    "description": "Telegram File Renamer Bot 2GB",
+    "logo": "https://graph.org/file/0805983ea8c297831371f.jpg",
     "keywords": ["Renamer Bot 2GB", "Mongo DB"],    
     "repository": "https://github.com/my-system-hy/rename-tg.git",
     "env": {
@@ -47,12 +47,12 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "seximod",
+            "value": "seximodbots",
             "required": false
         },
         "START_PIC": {
-            "description": "Your Bot start cmd Pic from ",
-            "value": "https://graph.org/file/336f04f444ed50c6f26fa.jpg",
+            "description": "Your Bot start cmd Pic from @sexi_mod",
+            "value": "https://graph.org/file/0805983ea8c297831371f.jpg",
             "required": false
         }
     },
