@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ForceRepl
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from helper.utils import progress_for_pyrogram, convert, humanbytes
-from helper.database import roheshbots
+from helper.database import seximodbots
 from asyncio import sleep
 from PIL import Image
 import os, time
@@ -69,8 +69,8 @@ async def refunc(client, message):
 
 @Client.on_callback_query(filters.regex("upload"))
 async def doc(bot, update):    
-    prefix = await roheshbots.get_prefix(update.message.chat.id)
-    suffix = await roheshbots.get_suffix(update.message.chat.id)
+    prefix = await seximodbots.get_prefix(update.message.chat.id)
+    suffix = await seximodbots.get_suffix(update.message.chat.id)
     new_name = update.message.text
     new_filename_ = new_name.split(":-")[1]
 
@@ -115,8 +115,8 @@ async def doc(bot, update):
     ph_path = None
     user_id = int(update.message.chat.id) 
     media = getattr(file, file.media.value)
-    c_caption = await roheshbots.get_caption(update.message.chat.id)
-    c_thumb = await roheshbots.get_thumbnail(update.message.chat.id)
+    c_caption = await seximodbots.get_caption(update.message.chat.id)
+    c_thumb = await seximodbots.get_thumbnail(update.message.chat.id)
 
     if c_caption:
          try:
